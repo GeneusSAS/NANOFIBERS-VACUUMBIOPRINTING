@@ -1,0 +1,2 @@
+The FUROID Project is an EU funded projekt in order to develop a scalabable solution to create nanofibers, bioprint (vacuum assisted) and cultivate (tissueengineering) hairfollicles for medical applocations (Alopecia), fashion applications (fur and wool) and industrial applications (testing models).
+The prelimenary results are composed in the first white paper of the FUROID Projekt in order to support open research and to mitigate the negative impact the conventional production of those products have for humans, animals and the planet.
